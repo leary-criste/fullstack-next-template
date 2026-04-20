@@ -27,4 +27,4 @@ async function withRequest<T>(func: () => Promise<T>): Promise<IRequestResult<T>
 withRequest.isError = isRequestError;
 withRequest.is404 = is404;
 
-export default withRequest;
+export default withRequest;

@@ -15,4 +15,4 @@ async function withPromise<T, E = Error>(func: () => Promise<T>): Promise<IPromi
 
 withPromise.isError = isPromiseError;
 
-export default withPromise;
+export default withPromise;

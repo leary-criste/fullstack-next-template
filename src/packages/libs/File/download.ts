@@ -44,4 +44,4 @@ export async function downloadFile({ data, fileName, fileType }: DownLoadFilePar
   // Clean up
   a.remove();
   URL.revokeObjectURL(url);
-}
+}

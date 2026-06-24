@@ -160,4 +160,4 @@ class BaseHttp<ResponseShape extends object = BaseHttpResponseJson> {
 }
 
 export const Http = new BaseHttp();
-export default BaseHttp;
+export default BaseHttp;

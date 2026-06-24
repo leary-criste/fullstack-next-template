@@ -27,4 +27,4 @@ function useOutsideClick<T extends Node>(callback: (target: HTMLElement) => void
   });
 }
 
-export default useOutsideClick;
+export default useOutsideClick;

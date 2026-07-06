@@ -1,1 +1,1 @@
-export * from '@/modules/Quotes/services/routes/random';
+export * from '@/modules/Quotes/services/routes/random';

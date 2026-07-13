@@ -30,4 +30,4 @@ export function withMetadata(metadata: Metadata): Metadata {
  */
 export function withGenerateMetadata<T>(cb: ICallbackGenerateMetadata<T>) {
   return (props: NextPageProps<T>, parent: ResolvingMetadata) => cb(props, parent);
-}
+}

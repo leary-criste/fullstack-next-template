@@ -44,4 +44,4 @@ class HttpError<T = unknown, E = string[]> extends Error {
   }
 }
 
-export default HttpError;
+export default HttpError;

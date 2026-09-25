@@ -22,4 +22,4 @@ function useClipboard(value: string, delay = 1500) {
   };
 }
 
-export default useClipboard;
+export default useClipboard;

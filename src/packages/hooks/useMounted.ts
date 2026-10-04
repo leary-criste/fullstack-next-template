@@ -10,4 +10,4 @@ function useMounted(callback: EffectCallback): void {
   useEffect(callback, []);
 }
 
-export default useMounted;
+export default useMounted;

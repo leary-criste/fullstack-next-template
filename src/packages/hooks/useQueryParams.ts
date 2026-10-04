@@ -11,4 +11,4 @@ function useQueryParams() {
   return { queryReader, queryModifier };
 }
 
-export default useQueryParams;
+export default useQueryParams;
